@@ -10,4 +10,13 @@ id
 Extending column space to 48* + 3 and aggregating weekly features to study output.
 Data cleaning outlier removal
 
+Investigate these :
+    shap values
+    imbalanced methods
+Clustering 
+density-pix (dpc) clustering
+cluster topic detection
+daily outlier
+
+
 
